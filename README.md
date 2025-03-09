@@ -114,17 +114,17 @@ What Should Be Included in a Well-Written README?
 A clear and concise name and summary of the project.
 Example:
 
-# TaskManager App  
+TaskManager App  
+
 A simple to-do list application that helps users manage their daily tasks efficiently.
 2. Installation Instructions
 
 Steps to set up the project locally.
 Example:
 
-## Installation  
+Installation  
 a. Clone the repository:  
-   ```bash
-   git clone https://github.com/username/taskmanager.git
+git clone https://github.com/username/taskmanager.git
 b. Navigate to the project folder:
 cd taskmanager
 c. Install dependencies:
@@ -142,7 +142,7 @@ Highlights key functionalities of the project.
 Defines how others can contribute (pull requests, issues, coding style).
 Example:
 
-## Contributing  
+Contributing  
 Contributions are welcome! Please follow these steps:  
 1. Fork the repository.  
 2. Create a new branch (`feature-branch`).  
